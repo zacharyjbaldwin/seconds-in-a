@@ -1,0 +1,20 @@
+{
+  "name": "seconds-in-a",
+  "version": "1.0.0",
+  "description": "Stores the amount of seconds in different time frames (ex: seconds in a month).",
+  "main": "app.js",
+  "scripts": {
+    "test": "node tests/test1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/zacharyjbaldwin/seconds-in-a"
+  },
+  "keywords": [
+    "seconds",
+    "time",
+    "storage"
+  ],
+  "author": "Zachary J. Baldwin <zacharyjbaldwin@gmail.com>",
+  "license": "MIT"
+}
